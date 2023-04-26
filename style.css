@@ -1,0 +1,25 @@
+
+
+.cards{
+  background-image: url(https://cdn.glitch.global/328a2907-07f3-478d-b78a-71d0642aee8c/cards?v=1682452294244);
+  padding: 500px;
+  display: inline-flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.cards2{
+  
+}
+  
+h2 {
+  font-family: Impact;
+  color: White;
+  font-size: 100px;
+}
+.body{
+  font-size:100px;
+  
+}
+.vido{
+  
+}
